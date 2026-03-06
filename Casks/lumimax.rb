@@ -1,6 +1,6 @@
 cask "lumimax" do
-  version "1.4.0"
-  sha256 "fe6b31a562c631329c14ed75da8252e0986049b7a8e863bf32f55f06fdd5ccb0"
+  version "1.4.1"
+  sha256 "113a5bc477179d9b3d8e35717148915a0fffd01bf352acc89e42fd5b15e4e07c"
 
   url "https://github.com/Joowonoil/LumiMax/releases/download/v#{version}/LumiMax.dmg",
       verified: "github.com/Joowonoil/LumiMax/"
